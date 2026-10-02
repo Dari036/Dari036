@@ -1,7 +1,5 @@
-<img align="right" src="https://count.getloli.com/get/@:Aurorp1g?theme=moebooru">
 
-## Adriel Ledesma — Desarrollador de Software & Estudiante de ISC <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
-
+## Adriel Ledesma — Desarrollador de Software & Estudiante de ISC
 <p align="center">
   <a href="https://github.com/Aurorp1g">
     <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hola%2C+soy+Adriel+Ledesma+%F0%9F%91%BD;Estudiante+de+Ingenier%C3%ADa+en+Sistemas+Computacionales+%F0%9F%93%90;Desarrollador+Full+Stack+%26+Sistemas+IoT+%F0%9F%92%BB%F0%9F%94%8C;Apasionado+por+la+Arquitectura+de+Software+y+Bajo+Nivel+%F0%9F%9A%80;Bienvenido+a+mi+GitHub+%F0%9F%8F%A6;">
@@ -52,14 +50,6 @@
 
 
 ### Proyectos Destacados <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Yus_cipher&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Yus_cipher)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Sensitive_Data_System&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Sensitive_Data_System)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Happy_Birthday&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Happy_Birthday)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Heart-notes&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Heart-notes)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=My-Heart&theme=github_dark_dimmed)](https://github.com/Aurorp1g/My-Heart)
-<br>
-
-<div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Right_Side.gif" width="300" height="auto" /></div>
 
 ### Lenguajes más usados <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
 <img align="center" src="https://github-vercel-deployment-seven.vercel.app/api/top-langs?username=Aurorp1g&show_icons=true&locale=es&layout=compact&langs_count=11&theme=github_dark_dimmed" alt="Aurorp1g" width="350" height="250">
@@ -69,11 +59,6 @@
 
 ### Gráfico de Actividad <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
 [![Gráfico de actividad de GitHub de Aurorp1g](https://github-readme-activity-graph.vercel.app/graph?username=Aurorp1g&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-#
-
-![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
-![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
 
 ---
 Créditos: [Aurorp1g](https://github.com/Aurorp1g)
